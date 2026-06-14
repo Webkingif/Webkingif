@@ -38,14 +38,6 @@ I enjoy working at the intersection of **mathematics, data, and user experience*
 
 ---
 
-## 📊 GitHub Stats
-
-![Femi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-
----
-
 ## 🧠 What I'm Currently Working On
 
 - Building scalable GraphQL APIs with TypeScript  
