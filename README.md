@@ -58,7 +58,7 @@ I enjoy working at the intersection of **mathematics, data, and user experience*
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/femi-idowu-3472ab324
+- 💼 LinkedIn: https://www.linkedin.com/in/oluwafemi-idowu-ayomide
 - 🐦 Twitter/X: https://x.com/Femi__idowu
 - 📧 Email: webkingif.other@gmail.com
 
