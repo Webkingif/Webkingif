@@ -43,12 +43,6 @@ An interactive campus navigation web application built for University of Lagos s
 * **Tech:** Next.js, React, TypeScript, Leaflet.js, OpenStreetMap, Tailwind CSS
 * **Links:** [Live Demo](https://unilagcompass.netlify.app) | [GitHub Repository](https://github.com/Webkingif/UnilagCompass)
 
-#### **[Zuper AI Chat Application](https://zuper-ai.vercel.app/)**
-A real-time, conversational AI application leveraging Google Gemini for dynamic, context-aware prompt processing.
-* **Key Highlights:** Streaming response handling, modern chat UI, fast edge deployment.
-* **Tech:** Next.js, React, TypeScript, Google Gemini API, Tailwind CSS, Vercel
-* **Links:** [Live Demo](https://zuper-ai.vercel.app/) | [GitHub Repository](https://github.com/Webkingif/ZuperAI)
-
 #### **[Grandmaster AI Chess](https://webkingif.github.io/chess-game-2026)**
 A client-side Progressive Web App (PWA) chess engine running minimax and alpha-beta pruning algorithms locally.
 * **Key Highlights:** Offline capabilities, service worker caching, zero-latency local algorithm calculation.
